@@ -1,0 +1,11 @@
+*// Who Helped Me?
+- Code.org Lessons
+- Mr. Aiello's Example
+
+What I asked?
+- I looked back to remember what the 1D arrays look like and how to format my for loops and if statements as well. 
+- I was confused at first but I looked at the example and I understood how to set up my project and use my data instead.
+
+What Response They Gave Me?
+- I was able to see the format, and I used the same thing for my project, I just changed the items based on what we used for our project. 
+- I saw the different methods and how it is initiated in the DataRunner.jave which helped me know what to do and how to format my code. 
