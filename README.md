@@ -36,4 +36,6 @@ https://www.kaggle.com/datasets/mexwell/species-protection-dataset
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+For my project, I created a data analysis program that reads information from four text files and organizes it using a  class called UserStory. The program stores species names, the year they were discovered, the dangers they face, and a numerical “value” representing how dangerous they are. Using this data, the class can analyze the arrays and identify which species has the highest danger value.
+
+In the DataRunner class, I load the data from the files and print out a summary that includes the total number of species, the most dangerous one, and a full list of all the information. This project uses, 1D arrays, constructors, and file-reading methods to display the data in a clear way
